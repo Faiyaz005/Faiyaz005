@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiyaz</h1>
 <h3 align="center">A passionate data analyst from Bangladesh</h3>
-<img align="right" alt="All About Data" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+<img align="right" alt="All About Data" width="390" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 - 💬 Ask me about **Stats, Python and Data.**
 
